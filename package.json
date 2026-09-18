@@ -1,0 +1,35 @@
+{
+  "name": "Apex-Stream",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A free, open-source alternative to premium creator studios powered by WebAssembly.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "creator-studio",
+    "video-editor",
+    "webassembly",
+    "ffmpeg",
+    "screen-recorder",
+    "open-source"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@ffmpeg/ffmpeg": "^0.12.10",
+    "@ffmpeg/util": "^0.12.1",
+    "lucide-react": "^0.400.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.2.2",
+    "vite": "^5.3.1"
+  }
+}
