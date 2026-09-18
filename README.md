@@ -2,11 +2,14 @@
   If you like our projects and resources, please sponsor us!.
 </div>
 
-<img width="424" height="425" alt="image" src="https://github.com/user-attachments/assets/240785ec-591c-432c-8e49-a4bd4965eefb" />
+<div align="center">
+  ![Texto Alternativo](<img width="424" height="425" alt="image" src="https://github.com/user-attachments/assets/6123fd74-2f34-4a2e-9fec-99a87e1f8de0" />
+)
+</div>
 
 
 <div align="center">
-  # 🎬 Apex Stream.
+  ## 🎬 Apex Stream.
 </div>
 
 An elite, open-source, web-based creator studio engineered to mimic premium macOS design suites like *Pages*, *Final Cut Pro*, and *Pixelmator Pro*. Record high-quality workspace streams, manipulate parameters through an elegant context-driven inspector, and compile media directly on local hardware via **WebAssembly** and **FFmpeg.wasm**.
